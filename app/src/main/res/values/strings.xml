@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">Ronda Score Keeper</string>
+    <string name="hint1">Nombre Jugador 1</string>
+    <string name="hint2">Nombre Jugador 2</string>
+    <string name="caracolillo">Caracolin +5</string>
+    <string name="caracol">Caracol +4</string>
+    <string name="Parranda">Parranda +3</string>
+    <string name="Ronda">Ronda +1</string>
+</resources>
